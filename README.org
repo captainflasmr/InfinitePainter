@@ -4,3 +4,7 @@
 #+author: James Dyer
 
 * Infinite Painter art assets
+
+** My settings for my favourite brush
+
+[[/images/InfinitePainterArtRageOilSe.jpg]]
